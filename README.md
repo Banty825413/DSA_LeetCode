@@ -21,6 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Banty825413/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
