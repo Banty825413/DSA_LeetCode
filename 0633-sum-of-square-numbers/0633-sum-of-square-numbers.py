@@ -1,11 +1,8 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
-        square = set()
-        for i in range (0,math.isqrt(c)+1 ):
-            sqr = i*i
-            temp =c - sqr
-            square.add(sqr)
-            if temp in square :
+        for a in range (0, math.isqrt(c)+1):
+            b= int(math.isqrt(c-a**2))
+            if a**2 + b**2 == c :
                 return True
             
             
