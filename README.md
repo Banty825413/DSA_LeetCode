@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Banty825413/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
