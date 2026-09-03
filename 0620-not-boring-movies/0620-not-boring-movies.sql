@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select c1.id ,c1.movie , c1.description ,c1.rating
+select id ,c1.movie , description ,rating
 from Cinema c1
-where c1.id % 2 = 1 and c1.description != "boring"
+where id % 2 = 1 and description != "boring"
 order by rating desc
