@@ -1,3 +1,5 @@
-# Write your MySQL query statement below
-update Salary
-set sex = If(sex='f','m','f')
+UPDATE Salary
+set sex = case  
+    when sex ='m' then 'f'
+    else 'm'
+    end
